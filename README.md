@@ -54,3 +54,9 @@ https://github.com/vhanawa1/ml_tutorials/edit/main/README.md
 - [UC Berkeley CS188 Intro to AI](http://ai.berkeley.edu/home.html), [Lecture Videos](http://ai.berkeley.edu/lecture_videos.html), [2](https://www.youtube.com/watch?v=W1S-HSakPTM)
 - [Programming Community Curated Resources for learning Artificial Intelligence](https://hackr.io/tutorials/learn-artificial-intelligence-ai)
 
+### Additional AI Resources
+- [MIT 6.034 Artificial Intelligence Lecture Videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi), [Complete Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
+- [edX course | Klein & Abbeel](https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/info)
+- [Udacity Course | Norvig & Thrun](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+- [TED talks on AI](http://www.ted.com/playlists/310/talks_on_artificial_intelligen)
+
