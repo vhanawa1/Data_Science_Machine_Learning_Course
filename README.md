@@ -9,9 +9,6 @@ This repository contains a topic-wise curated list of Data Science and Machine L
 
 ### Introduction
 
-- [Machine Learning Course by Andrew Ng (Stanford University)](https://www.coursera.org/learn/machine-learning)
-https://github.com/vhanawa1/ml_tutorials/edit/main/README.md
-- [Curated List of Machine Learning Resources](https://hackr.io/tutorials/learn-machine-learning-ml)
 - [In-depth introduction to machine learning in 15 hours of expert videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 - [List of Machine Learning University Courses](https://github.com/prakhar1989/awesome-courses#machine-learning)
