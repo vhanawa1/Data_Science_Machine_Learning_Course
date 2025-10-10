@@ -62,5 +62,4 @@ https://github.com/vhanawa1/ml_tutorials/edit/main/README.md
 ### Deep Learning
 
 - [fast.ai - Practical Deep Learning For Coders](http://course.fast.ai/)
-- [fast.ai - Cutting Edge Deep Learning For Coders](http://course.fast.ai/part2.html)
 - [A curated list of awesome Deep Learning tutorials, projects and communities](https://github.com/ChristosChristofidis/awesome-deep-learning)
