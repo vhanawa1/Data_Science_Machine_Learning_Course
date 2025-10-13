@@ -10,7 +10,6 @@ This repository contains a topic-wise curated list of Data Science and Machine L
 ### Introduction
 
 - [In-depth introduction to machine learning in 15 hours of expert videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
-- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 - [List of Machine Learning University Courses](https://github.com/prakhar1989/awesome-courses#machine-learning)
 - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
