@@ -1,4 +1,4 @@
-# Data Science and Machine Learning Course 
+# Data Science and Machine Learning Resources 
 
 Machine Learning Tutorials 
 This repository contains a topic-wise curated list of Data Science and Machine Learning tutorials. Other awesome lists can be found in this [list](https://github.com/sindresorhus/awesome).
