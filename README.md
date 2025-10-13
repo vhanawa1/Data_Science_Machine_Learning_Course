@@ -58,3 +58,7 @@ You can add your links to the list if you feel those are useful in Machine Learn
 - [Probability Cheat Sheet](http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf), [Source](http://www.wzchen.com/probability-cheatsheet/)
 - [Machine Learning Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 - [ML Compiled](https://ml-compiled.readthedocs.io/en/latest/)
+
+### Interesting Math learning channel for Machine Learning
+
+https://youtube.com/@3blue1brown?si=x4KZDv-qlkwH9prN
