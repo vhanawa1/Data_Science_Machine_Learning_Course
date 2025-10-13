@@ -36,18 +36,13 @@ This repository contains a topic-wise curated list of Data Science and Machine L
 ### Genetic Algorithms
 
 - [Genetic Algorithms Wikipedia Page](https://en.wikipedia.org/wiki/Genetic_algorithm)
-- [Simple Implementation of Genetic Algorithms in Python (Part 1)](http://outlace.com/miniga.html), [Part 2](http://outlace.com/miniga_addendum.html)
 - [Genetic Algorithms vs Artificial Neural Networks](http://stackoverflow.com/questions/1402370/when-to-use-genetic-algorithms-vs-when-to-use-neural-networks)
 
-### AI Links
+### AI Resources
 
 - [Awesome Artificial Intelligence (GitHub Repo)](https://github.com/owainlewis/awesome-artificial-intelligence)
-- [UC Berkeley CS188 Intro to AI](http://ai.berkeley.edu/home.html), [Lecture Videos](http://ai.berkeley.edu/lecture_videos.html), [2](https://www.youtube.com/watch?v=W1S-HSakPTM)
 - [Programming Community Curated Resources for learning Artificial Intelligence](https://hackr.io/tutorials/learn-artificial-intelligence-ai)
-
-### Additional AI Resources
 - [MIT 6.034 Artificial Intelligence Lecture Videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi), [Complete Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
-- [edX course | Klein & Abbeel](https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/info)
 - [Udacity Course | Norvig & Thrun](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 - [TED talks on AI](http://www.ted.com/playlists/310/talks_on_artificial_intelligen)
 ### Deep Learning
