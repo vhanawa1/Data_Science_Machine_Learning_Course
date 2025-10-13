@@ -45,7 +45,14 @@ This repository contains a topic-wise curated list of Data Science and Machine L
 - [MIT 6.034 Artificial Intelligence Lecture Videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi), [Complete Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
 - [Udacity Course | Norvig & Thrun](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 - [TED talks on AI](http://www.ted.com/playlists/310/talks_on_artificial_intelligen)
+
 ### Deep Learning
 
 - [fast.ai - Practical Deep Learning For Coders](http://course.fast.ai/)
 - [A curated list of awesome Deep Learning tutorials, projects and communities](https://github.com/ChristosChristofidis/awesome-deep-learning)
+
+### Cheat Sheets
+
+- [Probability Cheat Sheet](http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf), [Source](http://www.wzchen.com/probability-cheatsheet/)
+- [Machine Learning Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
+- [ML Compiled](https://ml-compiled.readthedocs.io/en/latest/)
