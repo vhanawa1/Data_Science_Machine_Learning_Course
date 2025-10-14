@@ -63,3 +63,6 @@ Below resources are not created by me but found on various projects or online. I
 ### Interesting Math learning channel for Machine Learning
 
 https://youtube.com/@3blue1brown?si=x4KZDv-qlkwH9prN
+
+### Data Science explained 
+https://youtu.be/INKwazzVTAk?si=4xUJ3PyrvXvRqHWu
