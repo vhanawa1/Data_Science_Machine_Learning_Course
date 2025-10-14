@@ -50,8 +50,8 @@ Below resources are not created by me but found on various projects or online. I
 - [TED talks on AI](http://www.ted.com/playlists/310/talks_on_artificial_intelligen)
 
 ### Machine Learninf=g
-- [Ensemble Technique] (https://medium.com/@sohildoshi344/ensemble-technique-in-machine-learning-2e2e21cd0bcc)
-- [Regression Evaluation Metrics ] (https://medium.com/@sohildoshi344/everything-about-regression-evaluation-metrics-e6a189bfdfb5)
+- [Ensemble Technique](https://medium.com/@sohildoshi344/ensemble-technique-in-machine-learning-2e2e21cd0bcc)
+- [Regression Evaluation Metrics ](https://medium.com/@sohildoshi344/everything-about-regression-evaluation-metrics-e6a189bfdfb5)
 ### Deep Learning
 
 - [fast.ai - Practical Deep Learning For Coders](http://course.fast.ai/)
@@ -66,11 +66,11 @@ Below resources are not created by me but found on various projects or online. I
 ### DevOps Learning
 
 ### AWS Resources 
-- [AWS Services ] (https://github.com/vhanawa1/Data_Science_Machine_Learning_Resources/blob/main/AWS_notes.pdf)
-- [AWS Course] (https://www.youtube.com/watch?v=GkKNxyLp_V0&list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze)
+- [AWS Services ](https://github.com/vhanawa1/Data_Science_Machine_Learning_Resources/blob/main/AWS_notes.pdf)
+- [AWS Course](https://www.youtube.com/watch?v=GkKNxyLp_V0&list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze)
 - 
 ### Terraform 
-- [Terraform] (https://medium.com/@sohildoshi344/setting-up-infrastructure-on-aws-using-terraform-870dbfed200d)
+- [Terraform](https://medium.com/@sohildoshi344/setting-up-infrastructure-on-aws-using-terraform-870dbfed200d)
 
 ### Interesting Math learning channel for Machine Learning
 
