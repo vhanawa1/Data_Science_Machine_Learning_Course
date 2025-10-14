@@ -4,6 +4,8 @@ This repository contains a topic-wise curated list of Data Science and Machine L
 
 You can add your links to the list if you feel those are useful in Machine Learnig, Data science or relataed fields.
 
+Below resources are not created by me but found on various projects or online. In this project we are consolidating resources from various sources.
+
 ### Contents
 
 - [Introduction](https://github.com/vhanawa1/ml_tutorials/blob/main/README.md#introduction)
