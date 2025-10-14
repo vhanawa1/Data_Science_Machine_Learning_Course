@@ -1,6 +1,5 @@
 # Data Science and Machine Learning Resources 
 
-Machine Learning Tutorials 
 This repository contains a topic-wise curated list of Data Science and Machine Learning tutorials. 
 
 You can add your links to the list if you feel those are useful in Machine Learnig, Data science or relataed fields.
