@@ -75,4 +75,6 @@ Below resources are not created by me but found on various projects or online. I
 ### Interesting Math learning channel for Machine Learning
 - [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
 - [StatQuest with Josh Starmer](https://unogeeks.com/statquest-with-josh-starmer/)
+- [Codebasics](https://www.youtube.com/@codebasics)
+- [freeCodeCamp](https://www.youtube.com/@freecodecamp)
 
